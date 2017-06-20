@@ -4,7 +4,7 @@
 # 效果演示
 ![img](https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif)
 
-<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif height="350"/>
+<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif height="450"/>
 
 ## 所需包：
 * pylab：用于绘图
