@@ -2,9 +2,7 @@
 一个给图片评分的wechaty项目
 
 # 效果演示
-![img](https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif)
-
-<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif height="450"/>
+<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif height="550"/>
 
 ## 所需包：
 * pylab：用于绘图
