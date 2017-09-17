@@ -31,33 +31,32 @@ Say goodbye to your choice of difficulty!
 
 ## Our development steps
 Once you have a little nodejs knowledge, and a little deep learning basis, you can build it.
-
+-----
 * Build the deep learning model
------
 The most important of this course is the data. We crawled data(eg. picture URL, release time, the number of praise, the number of comments)  with 'selfie' label from instagram. 
-
+-----
 * Filter data
------
+
 In order to make the training data more convincing, we will release a long time to retain the dynamic information, because we default release time is greater than the threshold of the dynamic access to the number of comments, the number of comments is stable, and the release time is lower than The dynamics of this threshold may not have been sufficient to get enough exposure, here because we crawled the data is not good enough, the time threshold is set to 2000 seconds.
-
+-----
 * Scoring strategy selection
------
+
 According to the screening after the dynamic information (self-timer picture URL, the number of praise, the number of comments) and other mapping analysis, view the distribution of the number of praise, we found that most of the points like 0-10, so we are simple and rude Will point praise as a score, and here you can try several variants of the number of features, such as the number of praise + comments and other prescriptions.
-
+-----
 * Download  pictures
------
+
 According to the filter after the self-timer picture URL to download pictures, and download the image down reshape, into 224 * 224 dimensions
-
+-----
 * Build DL model
------
+
 To build the neural network, in order to quickly build, we use the image processing network VGG16 feature extraction, and in the top layer to add five full connection layer, and finally a 10 classification of softMax output, and training models to store down, In order to call in the webselfie project
-
+-----
 * Build project
------
-Build wechaty project, including wechaty module and depth learning picture grading model.
 
-* debugging, success
+Build wechaty project, including wechaty module and depth learning picture grading model.
 -----
+* debugging, success
+
 
 
 
