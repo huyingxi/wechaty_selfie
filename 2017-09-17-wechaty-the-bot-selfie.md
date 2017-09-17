@@ -51,14 +51,14 @@ Build wechaty project, including wechaty module and depth learning picture gradi
 
 ## Appendix, packages we used
 
-* pylab: used for drawing
-* matplotlib: used for drawing
-* requests: used to handle http requests
-* numpy: used for matrix operations
-* h5py: used for formatting data sets
-* keras: for deep learning
+* pylab: for drawing
+* matplotlib: for drawing
+* requests: handle http requests
+* numpy: matrix operations
+* h5py: formatting data sets
+* keras: deep learning
 * Wechaty: wechat middleware
-* Fs: used to transfer pictures
+* Fs: transfer pictures
 
 
 ## Some optimization recommendations
