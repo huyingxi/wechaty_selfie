@@ -13,7 +13,7 @@ Wechaty can help developers quickly build applications based on Wechat, and as a
 So I also do a fun application based on wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)!
 
 <div align=center>
-![](https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg)
+<img src=https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg width='400px' />
 </div>
 
 This is a ChatBot that can score the self-portrait. Once you have a little nodejs knowleges, and a little deep learning basis, you can build it.
@@ -22,7 +22,7 @@ This is a ChatBot that can score the self-portrait. Once you have a little nodej
 
 ## Let's look at the Results show first
 <div align=center>
-<img src=https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg width="300px" />
+<img src=https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg width="400px" />
 </div>
 
 ## What are our steps?
