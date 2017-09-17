@@ -7,17 +7,19 @@ author: huyingxi
 
 > Author: [@huyingxi](https://github.com/huyingxi/wechaty_selfie) enjoying ML&Wechaty at BUPT
 
-Recently I found a fun and easy to use middleware for WeChat, called [Wechaty](https://github.com/Chatie/wechaty)
-Wechaty can help developers quickly build applications based on Wechat, and as a WeChat middleware, it was born with a huge number of user, So it is easy to find that there are already many applications based on wechaty.
+Recently I found a fun and easy to use middleware for WeChat, called [Wechaty](https://github.com/Chatie/wechaty).
+Wechaty can help developers quickly build applications based on Wechat, and as a WeChat middleware, it was born with a huge number of users. So it is easy to find that there are already many applications based on wechaty.
 
-So I also do a fun application based on wechaty - a WeChat robot that scores the self-portrait,which named [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)
+So I also do a fun application based on wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)!
 
-This is a robot based on WeChaty's self-portrait Score. You only need to have a little nodejs basis, at the same time have a little depth of learning the basis, you can build it.
+<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg height="650"/>
+
+This is a ChatBot that can score the self-portrait. Once you have a little nodejs knowleges, and a little deep learning basis, you can build it.
 
 <!--more-->
 
 ## Let's look at the Results show first
-
+<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg height="650"/>
 
 ## What are our steps?
 * to build the depth of learning model, the most important of course is the data, we crawled the instgram with 'selfie' label dynamic, including the dynamic self-timer picture URL, release time, point praise, the number of comments, this true So that most of them are really self-portrait, beauty and handsome.
@@ -30,8 +32,7 @@ This is a robot based on WeChaty's self-portrait Score. You only need to have a 
 
 
 
-## Appendix, the entire construction process used to what package
-![Dennis and Socks]({{site.baseurl}}/download/2017/dcsan-dashbot.jpg)
+## Appendix, packages we used
 
 * pylab: used for drawing
 * matplotlib: used for drawing
@@ -43,7 +44,7 @@ This is a robot based on WeChaty's self-portrait Score. You only need to have a 
 * Fs: used to transfer pictures
 
 
-## some optimization recommendations
+## Some optimization recommendations
 If you are interested, would like to take this one application for their own and friends around the self-portrait photo recommendations. Then you can consider how many points:
 * (1) If you want to use insta's selfie picture when training data, it must crawl for a long time, the score is stable.
 * (2) can try several different scoring strategies, I think this is the most fun.
@@ -53,4 +54,5 @@ If you are interested, would like to take this one application for their own and
 
 ## Finally
 I strongly recommend that you now click on the link below, there are surprises waiting for you！
+
 [Wechaty](https://github.com/Chatie/wechaty)
