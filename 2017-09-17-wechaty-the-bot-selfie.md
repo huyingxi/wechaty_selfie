@@ -12,14 +12,18 @@ Wechaty can help developers quickly build applications based on Wechat, and as a
 
 So I also do a fun application based on wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)!
 
-<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg height="650"/>
+<div align=center>
+![](https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg)
+</div>
 
 This is a ChatBot that can score the self-portrait. Once you have a little nodejs knowleges, and a little deep learning basis, you can build it.
 
 <!--more-->
 
 ## Let's look at the Results show first
-<img src = https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg height="650"/>
+<div align=center>
+![](https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg)
+</div>
 
 ## What are our steps?
 * to build the depth of learning model, the most important of course is the data, we crawled the instgram with 'selfie' label dynamic, including the dynamic self-timer picture URL, release time, point praise, the number of comments, this true So that most of them are really self-portrait, beauty and handsome.
