@@ -22,7 +22,7 @@ This is a ChatBot that can score the self-portrait. Once you have a little nodej
 
 ## Let's look at the Results show first
 <div align=center>
-![](“https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg”)
+<img src=https://github.com/huyingxi/wechaty_selfie/blob/master/result.jpg width="300px" />
 </div>
 
 ## What are our steps?
