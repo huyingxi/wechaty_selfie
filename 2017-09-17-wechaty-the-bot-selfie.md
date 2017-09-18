@@ -29,9 +29,11 @@ Say goodbye to your choice of difficulty!
 </div>
 
 ## Our development steps
-Once you have a little nodejs knowledge, and a little deep learning basis, you can build it.
+
+Once you have a little nodejs knowledge, and a little deep learning basis, you can build it. :)
 -----
 * Build the deep learning model
+
 The most important of this course is the data. We crawled data(eg. picture URL, release time, the number of praise, the number of comments)  with 'selfie' label from instagram. 
 -----
 * Filter data
@@ -72,11 +74,10 @@ Build wechaty project, including wechaty module and depth learning picture gradi
 
 
 ## Some optimization recommendations
-If you are interested, would like to take this one application for their own and friends around the self-portrait photo recommendations. Then you can consider how many points:
-* (1) If you want to use insta's selfie picture when training data, it must crawl for a long time, the score is stable.
-* (2) can try several different scoring strategies, I think this is the most fun.
-* (3) can build a more complex depth of learning model. There should be a model that is more applicable to the scene.
-
+If you are interested what I have done and would like to Develop a similar application.
+* If you want to use pictures from Instagram that have the selfie label as the training data, you should crawl the pictures with earlier release time.
+* You may try several different scoring strategies.
+* You can build a more complex deep learning model.
 
 
 ## Finally
