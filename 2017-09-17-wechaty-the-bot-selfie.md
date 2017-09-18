@@ -19,7 +19,7 @@ So I build a fun application based on Wechaty, called [wechaty_selfie](https://g
 <img src=https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg width='700px' />
 </div>
 
-                    Say goodbye to your choice of difficulty!
+                                      Say goodbye to your choice of difficulty!
 
 <!--more-->
 
