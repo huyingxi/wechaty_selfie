@@ -29,9 +29,9 @@ Say goodbye to your choice of difficulty!
 </div>
 
 ## Our development steps
-
-Once you have a little nodejs knowledge, and a little deep learning basis, you can build it. :)
 -----
+Once you have a little nodejs knowledge, and a little deep learning basis, you can build it. :)
+
 * Crawl data : The most important of this application is data. We crawled data(eg. picture URL, release time, the number of praise, the number of comments)  with 'selfie' label from instagram. 
 
 
@@ -46,10 +46,10 @@ Once you have a little nodejs knowledge, and a little deep learning basis, you c
 * Build DL model : In order to build the neural network quickly, we choose the pre-build model VGG16 in keras, and add five full connection layer on the top of it. The top of our model is a softMax layer with 10 categories.
 
 
-* Build project & training model: Build wechaty project and the training of deep learning model.
+* Build project & training model : Build wechaty project and the training of deep learning model.
 
 
-* debugging, success!
+* Debugging, success!
 
 
 
