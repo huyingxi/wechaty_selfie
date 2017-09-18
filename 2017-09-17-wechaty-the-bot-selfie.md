@@ -7,12 +7,11 @@ author: huyingxi
 
 > Author: [@huyingxi](https://github.com/huyingxi/wechaty_selfie) enjoying ML&Wechaty at BUPT
 
-Recently I found a fun and easy to use middleware for WeChat, called [Wechaty](https://github.com/Chatie/wechaty).
+Recently I found a fun and easy to use middleware for WeChat, named [Wechaty](https://github.com/Chatie/wechaty).
 
 Wechaty can help developers quickly build applications based on Wechat, and it was born with a huge number of Potential users. 
 
-So I build a fun application based on Wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)!
-This is a ChatBot that can score the self-portrait.
+So I build a fun application based on Wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie), Which is a ChatBot that can score self-portraits.
 
 Which one is more beautiful?
 Say goodbye to your choice of difficulty!
