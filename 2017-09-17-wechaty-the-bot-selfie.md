@@ -77,3 +77,6 @@ If you are interested what I have done and would like to Develop a similar appli
 I strongly recommend that you now click on the link below, there are surprises waiting for you！
 
 [Wechaty :)](https://github.com/Chatie/wechaty)
+
+
+And more details you can find in [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie)
