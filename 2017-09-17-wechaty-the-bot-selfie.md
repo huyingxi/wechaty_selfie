@@ -71,4 +71,4 @@ If you are interested what I have done and would like to Develop a similar appli
 ## Finally
 I strongly recommend that you now click on the link below, there are surprises waiting for you！
 
-[Wechaty-say hi to you](https://github.com/Chatie/wechaty)
+[Wechaty :)](https://github.com/Chatie/wechaty)
