@@ -11,7 +11,7 @@ Recently I found a fun and easy to use middleware for WeChat, called [Wechaty](h
 
 Wechaty can help developers quickly build applications based on Wechat, and it was born with a huge number of Potential users. 
 
-So I build a fun application based on Wechaty - [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie), Which is a ChatBot that can score self-portraits.
+So I build a fun application based on Wechaty, called [wechaty_selfie](https://github.com/huyingxi/wechaty_selfie), which is a ChatBot that can score self-portraits.
 
 
 
@@ -19,7 +19,7 @@ So I build a fun application based on Wechaty - [wechaty_selfie](https://github.
 <img src=https://github.com/huyingxi/wechaty_selfie/blob/master/li.jpg width='700px' />
 </div>
 
-Say goodbye to your choice of difficulty!
+                    Say goodbye to your choice of difficulty!
 
 <!--more-->
 
