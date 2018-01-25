@@ -1,6 +1,8 @@
 # wechaty_selfie
 一个给图片评分的wechaty项目
 
+* Chatie Blog: [Score Your Face Photo: a ML & Wechaty practice](https://blog.chatie.io/2017/09/18/wechaty-selfie-bot.html)
+
 # 效果演示
 <img src = https://github.com/huyingxi/wechaty_selfie/blob/master/hello.gif height="550"/>
 
